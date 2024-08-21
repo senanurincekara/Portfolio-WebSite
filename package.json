@@ -1,3 +1,5 @@
+
+
 {
   "homepage": "https://senanurincekara.github.io/Portfolio-WebSite",
   "name": "react-portfolio",
@@ -10,7 +12,8 @@
   "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
   "preview": "vite preview",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+  "deploy": "gh-pages -d dist" 
+  
 }
 ,
   "dependencies": {
